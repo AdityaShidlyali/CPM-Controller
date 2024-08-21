@@ -1,7 +1,7 @@
 ## Screenshots
 <table>
   <tr>
-    <td> <img src="./Screenshots/1.png"  alt="1" width = 587px height = 1037px ></td>
+    <td> <img src="./Screenshots/1.png"  alt="1" width = 587px height = 1039px ></td>
     <td><img src="./Screenshots/2.png" alt="2" width = 490px height = 860px></td>
    </tr> 
    <tr>
