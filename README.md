@@ -6,6 +6,6 @@
    </tr> 
    <tr>
       <td><img src="./Screenshots/3.png" alt="3" width=491px height=800px></td>
-      <td><img src="./Screenshots/4.png" alt="4" width=679px height=800px></td>
+      <td><img src="./Screenshots/4.png" alt="4" width=679px height=650px></td>
   </tr>
 </table>
